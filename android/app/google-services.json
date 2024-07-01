@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258824766964",
+    "project_id": "cellsecurity-b1b53",
+    "storage_bucket": "cellsecurity-b1b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258824766964:android:48e3e897eb5d10dafba5a1",
+        "android_client_info": {
+          "package_name": "com.secureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlHGJ8oZTwrnrFdlG9-f3N4waLQvBifI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
